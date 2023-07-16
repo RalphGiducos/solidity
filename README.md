@@ -18,7 +18,7 @@ pragma solidity 0.8.18;
 contract MyToken {
 
     // public variables here
-    string public name = "RALPH";
+    string public name = "RALPH"; 
     string public abbrv = "RPH";
     uint public supply = 0;
    
